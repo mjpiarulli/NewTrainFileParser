@@ -1,0 +1,10 @@
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Aspose.Cells.lic
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Jacobs.TrainParsing.Reports.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Jacobs.TrainParsing.Reports.pdb
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Aspose.Cells.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Jacobs.TrainParsing.Common.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\bin\Debug\Jacobs.TrainParsing.Common.pdb
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\obj\Debug\Jacobs.TrainParsing.Reports.csprojResolveAssemblyReference.cache
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\obj\Debug\Jacobs.TrainParsing.Reports.csproj.CoreCompileInputs.cache
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\obj\Debug\Jacobs.TrainParsing.Reports.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Reports\obj\Debug\Jacobs.TrainParsing.Reports.pdb

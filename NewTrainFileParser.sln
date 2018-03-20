@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Common", "1 Common", "{4CC815C3-771C-4D5A-815E-E5BED9EE7F69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 DataAccess", "2 DataAccess", "{9B139DD9-7E3D-4165-AD7E-7E10C15151C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Service", "3 Service", "{04F21943-FFE2-48D8-8974-EF1325512208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Application", "4 Application", "{DA1A2E83-F55C-4EE6-A9DD-A75EE7F26C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobs.TrainParsing.Common", "Jacobs.TrainParsing.Common\Jacobs.TrainParsing.Common.csproj", "{D548985D-DB34-4488-A670-C849DE265EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobs.TrainParsing.Extensions", "Jacobs.TrainParsing.Extensions\Jacobs.TrainParsing.Extensions.csproj", "{11B53D2E-3134-4920-88E1-88E67987571B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobs.TrainParsing.Reports", "Jacobs.TrainParsing.Reports\Jacobs.TrainParsing.Reports.csproj", "{9BAB6F11-9C52-44EF-9F42-743787F3BB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobs.TrainParsing.TrainParseHelpers", "Jacobs.TrainParsing.TrainParseHelpers\Jacobs.TrainParsing.TrainParseHelpers.csproj", "{C083C084-4F4C-420B-98B7-ABD188254F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobs.TrainParsing.NewTrainFileParserForm", "Jacobs.TrainParsing.NewTrainFileParserForm\Jacobs.TrainParsing.NewTrainFileParserForm.csproj", "{91A22DAA-CD20-454C-9EEC-67691608AD52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D548985D-DB34-4488-A670-C849DE265EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D548985D-DB34-4488-A670-C849DE265EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D548985D-DB34-4488-A670-C849DE265EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D548985D-DB34-4488-A670-C849DE265EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B53D2E-3134-4920-88E1-88E67987571B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B53D2E-3134-4920-88E1-88E67987571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B53D2E-3134-4920-88E1-88E67987571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B53D2E-3134-4920-88E1-88E67987571B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAB6F11-9C52-44EF-9F42-743787F3BB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAB6F11-9C52-44EF-9F42-743787F3BB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAB6F11-9C52-44EF-9F42-743787F3BB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAB6F11-9C52-44EF-9F42-743787F3BB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C083C084-4F4C-420B-98B7-ABD188254F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C083C084-4F4C-420B-98B7-ABD188254F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C083C084-4F4C-420B-98B7-ABD188254F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C083C084-4F4C-420B-98B7-ABD188254F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A22DAA-CD20-454C-9EEC-67691608AD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A22DAA-CD20-454C-9EEC-67691608AD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A22DAA-CD20-454C-9EEC-67691608AD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A22DAA-CD20-454C-9EEC-67691608AD52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D548985D-DB34-4488-A670-C849DE265EF2} = {4CC815C3-771C-4D5A-815E-E5BED9EE7F69}
+		{11B53D2E-3134-4920-88E1-88E67987571B} = {4CC815C3-771C-4D5A-815E-E5BED9EE7F69}
+		{9BAB6F11-9C52-44EF-9F42-743787F3BB5A} = {4CC815C3-771C-4D5A-815E-E5BED9EE7F69}
+		{C083C084-4F4C-420B-98B7-ABD188254F93} = {4CC815C3-771C-4D5A-815E-E5BED9EE7F69}
+		{91A22DAA-CD20-454C-9EEC-67691608AD52} = {DA1A2E83-F55C-4EE6-A9DD-A75EE7F26C40}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE162EF-DF07-41B1-A46E-1B75FCE95A4C}
+	EndGlobalSection
+EndGlobal

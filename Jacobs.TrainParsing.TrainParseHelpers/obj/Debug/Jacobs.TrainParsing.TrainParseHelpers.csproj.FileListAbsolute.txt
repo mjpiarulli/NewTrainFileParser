@@ -1,0 +1,8 @@
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\bin\Debug\Jacobs.TrainParsing.TrainParseHelpers.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\bin\Debug\Jacobs.TrainParsing.TrainParseHelpers.pdb
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\bin\Debug\Jacobs.TrainParsing.Common.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\bin\Debug\Jacobs.TrainParsing.Common.pdb
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\obj\Debug\Jacobs.TrainParsing.TrainParseHelpers.csprojResolveAssemblyReference.cache
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\obj\Debug\Jacobs.TrainParsing.TrainParseHelpers.csproj.CoreCompileInputs.cache
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\obj\Debug\Jacobs.TrainParsing.TrainParseHelpers.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.TrainParseHelpers\obj\Debug\Jacobs.TrainParsing.TrainParseHelpers.pdb

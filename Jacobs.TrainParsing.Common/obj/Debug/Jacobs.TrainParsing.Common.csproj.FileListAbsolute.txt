@@ -1,0 +1,5 @@
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Common\bin\Debug\Jacobs.TrainParsing.Common.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Common\bin\Debug\Jacobs.TrainParsing.Common.pdb
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Common\obj\Debug\Jacobs.TrainParsing.Common.csproj.CoreCompileInputs.cache
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Common\obj\Debug\Jacobs.TrainParsing.Common.dll
+C:\Users\mpiarulli\Dropbox\Public\NewTrainFileParser\Jacobs.TrainParsing.Common\obj\Debug\Jacobs.TrainParsing.Common.pdb
